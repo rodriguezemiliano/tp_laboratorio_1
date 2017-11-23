@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1511403550 source:c:\users\chinow\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"miLib.h"
+
+1511403164 c:\users\chinow\desktop\tp_3_cascara\funciones.h
+
+1511378649 c:\users\chinow\desktop\tp_3_cascara\milib.h
+
+1511406007 source:c:\users\chinow\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"miLib.h"
+
+1511380097 source:c:\users\chinow\desktop\tp_3_cascara\milib.c
+	<stdlib.h>
+	"milib.h"
+
